@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+body{
+	background-color:tomato;
+	background-image:url("job.jpg");
+}
+.form{
+	border-style:solid;
+	border-color:blue;
+	background-color:yellow;
+	background-image:url("C:\Users\91709\Desktop\job.jpg");
+	vertical-align:middle;
+	width: 500px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+h1{
+	text-align:center;
+	
+}
+h2{
+	text-align:center;
+}
